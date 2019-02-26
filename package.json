@@ -34,8 +34,10 @@
   },
   "homepage": "https://github.com/runarberg/markdown-it-math",
   "optionalDependencies": {},
+  "dependencies": {
+    "ascii2mathml": "runarberg/ascii2mathml#4615e1b6e80f4740fe0ddc848fbfdc695467487f"
+  },
   "devDependencies": {
-    "ascii2mathml": "runarberg/ascii2mathml#4615e1b6e80f4740fe0ddc848fbfdc695467487f",
     "babelify": "^10.0.0",
     "browserify": "^16.2.3",
     "eslint": "^5.14.1",
