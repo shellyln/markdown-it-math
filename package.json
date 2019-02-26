@@ -33,17 +33,17 @@
     "url": "https://github.com/runarberg/markdown-it-math/issues"
   },
   "homepage": "https://github.com/runarberg/markdown-it-math",
-  "optionalDependencies": {
-    "ascii2mathml": "^0.5.3"
-  },
+  "optionalDependencies": {},
   "devDependencies": {
-    "babelify": "^6.3.0",
-    "browserify": "^11.1.0",
-    "eslint": "^1.4.3",
-    "markdown-it": "^4.1.0",
+    "ascii2mathml": "runarberg/ascii2mathml#4615e1b6e80f4740fe0ddc848fbfdc695467487f",
+    "babelify": "^10.0.0",
+    "browserify": "^16.2.3",
+    "eslint": "^5.14.1",
+    "lodash": "^4.17.11",
+    "markdown-it": "^8.4.2",
     "markdown-it-testgen": "^0.1.4",
-    "mocha": "^2.3.2",
+    "mocha": "^6.0.2",
     "texzilla": "^0.9.9",
-    "uglifyjs": "^2.4.10"
+    "uglifyjs": "^2.4.11"
   }
 }
